@@ -1,2 +1,2 @@
 # Tableau_Project
-Descriptive customer analysis dashboard
+Descriptive customer analysis dashboard using Tableau
